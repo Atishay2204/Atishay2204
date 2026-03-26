@@ -1,6 +1,6 @@
 # Hi, I'm Atishay 👋
 
-🎓 B.Tech Student (AI & ML), VIT Bhopal  
+🎓 B.Tech Student (CSE), VIT Bhopal  
 📅 Year: 1st Year  
 💡 Interests: Python, algorithms, and AI 🚀  
    Currently exploring coding, digital tools & problem solving  
